@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://alignment-von-funk-circuit.trycloudflare.com/vnc.html
+URL       : https://specifications-motion-africa-pool.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-01 19:56:37
+Created   : 2026-06-01 22:34:47
 =======================================================
