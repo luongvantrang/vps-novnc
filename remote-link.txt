@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://harold-clocks-unity-refers.trycloudflare.com/vnc.html
+URL       : https://crossing-cologne-published-communicate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-04 03:33:32
+Created   : 2026-06-04 12:43:46
 =======================================================
