@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cost-finish-licensing-imaging.trycloudflare.com/vnc.html
+URL       : https://beverage-skills-race-demonstrates.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-06 21:00:59
+Created   : 2026-06-07 02:59:52
 =======================================================
