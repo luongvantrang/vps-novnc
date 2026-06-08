@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://proposal-scheduled-detailed-understood.trycloudflare.com/vnc.html
+URL       : https://furniture-expires-ordinary-sponsorship.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-08 14:05:43
+Created   : 2026-06-08 17:51:57
 =======================================================
