@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://calculated-frames-cms-presence.trycloudflare.com/vnc.html
+URL       : https://yield-trainer-quebec-bath.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-10 08:47:35
+Created   : 2026-06-10 12:54:15
 =======================================================
