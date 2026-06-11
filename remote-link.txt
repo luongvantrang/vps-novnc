@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://suffered-how-sets-beaches.trycloudflare.com/vnc.html
+URL       : https://flat-rose-bride-horn.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-11 09:12:31
+Created   : 2026-06-11 13:58:28
 =======================================================
