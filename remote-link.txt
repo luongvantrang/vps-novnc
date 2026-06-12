@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sky-britannica-relating-arising.trycloudflare.com/vnc.html
+URL       : https://drinking-word-barcelona-dealtime.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-12 08:57:44
+Created   : 2026-06-12 12:54:17
 =======================================================
