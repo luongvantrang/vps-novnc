@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cognitive-fur-represent-briefing.trycloudflare.com/vnc.html
+URL       : https://slideshow-long-scenes-structures.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-13 02:53:42
+Created   : 2026-06-13 11:54:04
 =======================================================
