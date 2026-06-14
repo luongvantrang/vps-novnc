@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://telescope-involved-reports-tenant.trycloudflare.com/vnc.html
+URL       : https://kitchen-resolutions-told-stars.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-14 16:25:49
+Created   : 2026-06-14 21:08:08
 =======================================================
