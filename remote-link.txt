@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://arena-experimental-plant-citation.trycloudflare.com/vnc.html
+URL       : https://birthday-machine-automotive-scenic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-17 09:30:09
+Created   : 2026-06-17 13:41:53
 =======================================================
