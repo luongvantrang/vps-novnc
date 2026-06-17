@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://heat-everything-dot-vegas.trycloudflare.com/vnc.html
+URL       : https://glenn-awarded-nowhere-publication.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-17 17:50:56
+Created   : 2026-06-17 21:59:06
 =======================================================
