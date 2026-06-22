@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://standing-each-collaborative-opens.trycloudflare.com/vnc.html
+URL       : https://acquire-should-patient-wife.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-22 10:37:05
+Created   : 2026-06-22 18:45:43
 =======================================================
