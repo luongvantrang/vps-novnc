@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://freight-spectrum-maps-hollow.trycloudflare.com/vnc.html
+URL       : https://healthcare-dave-loud-contributors.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-25 12:16:34
+Created   : 2026-06-25 17:10:10
 =======================================================
