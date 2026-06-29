@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ports-sees-bon-approved.trycloudflare.com/vnc.html
+URL       : https://cite-emphasis-institutional-environment.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-29 17:34:31
+Created   : 2026-06-29 21:23:17
 =======================================================
