@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://demonstration-universities-estimate-nylon.trycloudflare.com/vnc.html
+URL       : https://meters-die-tears-offered.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-30 21:26:41
+Created   : 2026-07-01 02:56:42
 =======================================================
