@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://meters-die-tears-offered.trycloudflare.com/vnc.html
+URL       : https://acid-springer-grove-handy.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-01 02:56:42
+Created   : 2026-07-01 08:49:35
 =======================================================
