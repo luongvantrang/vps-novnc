@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://minimize-adsl-causes-adequate.trycloudflare.com/vnc.html
+URL       : https://hosting-lace-paragraph-opens.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-06 02:41:19
+Created   : 2026-07-06 08:59:42
 =======================================================
