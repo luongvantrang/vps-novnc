@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://robust-colin-java-robin.trycloudflare.com/vnc.html
+URL       : https://minimize-adsl-causes-adequate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-05 20:54:53
+Created   : 2026-07-06 02:41:19
 =======================================================
