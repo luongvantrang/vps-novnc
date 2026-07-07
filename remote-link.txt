@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://save-studies-only-fighting.trycloudflare.com/vnc.html
+URL       : https://partnerships-bloomberg-certificate-hiking.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-06 21:27:13
+Created   : 2026-07-07 02:36:52
 =======================================================
