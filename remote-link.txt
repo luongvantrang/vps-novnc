@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vid-doctrine-runs-vitamins.trycloudflare.com/vnc.html
+URL       : https://recognize-elvis-sending-cause.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-12 11:09:47
+Created   : 2026-07-12 15:57:06
 =======================================================
