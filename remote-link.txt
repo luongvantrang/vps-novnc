@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://promising-networking-has-duncan.trycloudflare.com/vnc.html
+URL       : https://industrial-required-restoration-beyond.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-25 07:14:30
+Created   : 2026-07-25 11:07:54
 =======================================================
