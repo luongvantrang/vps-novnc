@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://moment-currencies-centered-raymond.trycloudflare.com/vnc.html
+URL       : https://lanes-college-demonstrate-taxation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 15:59:26
+Created   : 2026-08-01 20:45:53
 =======================================================
