@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mini-namespace-biotechnology-insertion.trycloudflare.com/vnc.html
+URL       : https://fraser-deeper-lauderdale-buyer.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-03 08:25:53
+Created   : 2026-08-03 12:54:42
 =======================================================
