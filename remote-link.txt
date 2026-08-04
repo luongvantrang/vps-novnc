@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://refurbished-publishing-ian-murphy.trycloudflare.com/vnc.html
+URL       : https://remembered-calculation-miniature-civilization.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-03 21:00:16
+Created   : 2026-08-04 02:00:56
 =======================================================
