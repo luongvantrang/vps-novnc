@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cardiac-connected-generates-weddings.trycloudflare.com/vnc.html
+URL       : https://leave-grand-oasis-owned.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 02:00:01
+Created   : 2026-08-05 07:37:23
 =======================================================
