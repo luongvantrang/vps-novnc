@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://truth-mug-serves-handmade.trycloudflare.com/vnc.html
+URL       : https://energy-wednesday-heroes-adapters.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 11:56:41
+Created   : 2026-08-05 16:31:04
 =======================================================
