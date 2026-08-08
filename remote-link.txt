@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fair-nissan-elementary-building.trycloudflare.com/vnc.html
+URL       : https://climb-principles-entirely-absorption.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 20:37:04
+Created   : 2026-08-08 01:11:44
 =======================================================
