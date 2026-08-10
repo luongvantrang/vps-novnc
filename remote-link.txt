@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mpg-biodiversity-half-boc.trycloudflare.com/vnc.html
+URL       : https://exposure-implement-gbp-produced.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-10 15:56:54
+Created   : 2026-08-10 20:37:52
 =======================================================
