@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://superb-dry-transactions-minolta.trycloudflare.com/vnc.html
+URL       : https://republican-graduate-quarter-generated.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-14 10:56:59
+Created   : 2026-08-14 15:47:00
 =======================================================
