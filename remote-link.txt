@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://garage-investigator-leaving-slots.trycloudflare.com/vnc.html
+URL       : https://reserve-annex-contributed-adjusted.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 20:18:04
+Created   : 2026-08-16 00:59:37
 =======================================================
