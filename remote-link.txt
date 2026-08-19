@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://scenario-blowing-humanities-exclusion.trycloudflare.com/vnc.html
+URL       : https://scoring-flash-nissan-background.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 20:19:13
+Created   : 2026-08-19 00:56:33
 =======================================================
