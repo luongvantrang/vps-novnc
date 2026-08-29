@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://catalog-playing-firmware-centers.trycloudflare.com/vnc.html
+URL       : https://badge-refers-names-delivered.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 18:10:08
+Created   : 2026-08-29 22:13:41
 =======================================================
