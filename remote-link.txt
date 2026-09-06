@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://procurement-heading-cartoons-thy.trycloudflare.com/vnc.html
+URL       : https://richardson-chan-luck-each.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-05 21:53:37
+Created   : 2026-09-06 02:29:30
 =======================================================
