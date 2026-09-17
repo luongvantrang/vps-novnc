@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fri-yet-screening-equation.trycloudflare.com/vnc.html
+URL       : https://poison-dui-appliances-old.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-17 03:00:10
+Created   : 2026-09-17 09:48:56
 =======================================================
