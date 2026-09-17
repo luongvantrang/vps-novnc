@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://insured-roof-solve-biographies.trycloudflare.com/vnc.html
+URL       : https://fri-yet-screening-equation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-16 22:36:46
+Created   : 2026-09-17 03:00:10
 =======================================================
