@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://thickness-alpine-processed-cabinet.trycloudflare.com/vnc.html
+URL       : https://socks-regulation-nurse-univ.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-18 02:47:03
+Created   : 2026-09-18 09:22:21
 =======================================================
