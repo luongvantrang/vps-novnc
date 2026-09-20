@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://needs-quizzes-infinite-stock.trycloudflare.com/vnc.html
+URL       : https://close-vernon-buzz-exams.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-20 02:58:15
+Created   : 2026-09-20 09:36:06
 =======================================================
