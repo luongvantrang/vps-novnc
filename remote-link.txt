@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tel-likely-wellington-literacy.trycloudflare.com/vnc.html
+URL       : https://bruce-rewards-mixed-cheese.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-30 19:48:31
+Created   : 2026-09-30 23:26:42
 =======================================================
