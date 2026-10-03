@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://freebsd-graphs-soap-char.trycloudflare.com/vnc.html
+URL       : https://lincoln-recommend-meat-dimension.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-03 10:12:39
+Created   : 2026-10-03 18:31:56
 =======================================================
