@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lowest-voluntary-allowing-treasures.trycloudflare.com/vnc.html
+URL       : https://carb-application-alternate-practices.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-10 23:10:34
+Created   : 2026-10-11 03:29:46
 =======================================================
