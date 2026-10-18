@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tuesday-doctor-allows-connectivity.trycloudflare.com/vnc.html
+URL       : https://shortly-sciences-consult-genius.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-18 17:46:26
+Created   : 2026-10-18 22:13:22
 =======================================================
