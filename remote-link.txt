@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://republicans-scoop-never-autos.trycloudflare.com/vnc.html
+URL       : https://commit-arise-samples-hrs.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 18:54:25
+Created   : 2026-10-20 22:56:26
 =======================================================
