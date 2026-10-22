@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://telecom-province-declare-decent.trycloudflare.com/vnc.html
+URL       : https://euro-hat-adjustment-person.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-22 09:49:22
+Created   : 2026-10-22 14:53:21
 =======================================================
