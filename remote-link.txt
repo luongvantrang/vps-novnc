@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vegetation-deserve-surgeon-fairly.trycloudflare.com/vnc.html
+URL       : https://north-neighborhood-firmware-canal.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-22 22:57:17
+Created   : 2026-10-23 03:01:49
 =======================================================
