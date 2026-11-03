@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://suitable-oldest-rose-herb.trycloudflare.com/vnc.html
+URL       : https://syndicate-exhibit-conviction-marker.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 13:02:57
+Created   : 2026-11-03 04:59:19
 =======================================================
